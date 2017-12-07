@@ -1,0 +1,17 @@
+Theme Name: ParkLifeCafe
+Theme URI: http://wordpress.org/themes/twentythirteen
+Author: the WordPress team
+Author URI: http://wordpress.org/
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/* Contact Form 7 Form Background And Border CSS
+-----------------------------------------------*/
+
+.wpcf7 {
+     background: #A3A3A3;
+     border: 1px solid #494949;
+     width: 100%;
+}
